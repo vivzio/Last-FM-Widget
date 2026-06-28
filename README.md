@@ -17,3 +17,11 @@ A Discord [developer application](https://discord.com/developers/applications)
 ![Set the App name](images/appname.png)
 
 ![Set the APPLICATION_ID value in .env](images/appid.png)
+
+2. Activate the Social SDK
+
+![Select Social SDK on the Sidebar](images/sdksidebar.png)
+
+![Fill out the SDK application](images/sdkform.png)
+
+![Submit the application to gain access to the Social SDK](images/sdksubmit.png)
