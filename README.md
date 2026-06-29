@@ -21,3 +21,26 @@ A Discord [developer application](https://discord.com/developers/applications)
 
 [Tutorial Video](https://files.vivzio.live/api/shares/gPKgv1Cq/files/82e93edd-a1ed-4353-9f04-eb931798cfca?download=false)
 ###### *I apologize for the very poor video editing, I currently do not have my main editing software installed :(*
+
+## Automatic Stat Updates
+The way I do it is by simply using Task Scheduler (because I'm on Windows 10) to run the script every minute (Seems a bit excessive, I know, but it keeps it up to date!) in an invisible command prompt (So I don't get interrupted whilst doing something).
+
+Here are a few links that would help you automatically update your statistics:
+
+### [Windows](https://community.esri.com/t5/python-documents/schedule-a-python-script-using-windows-task/ta-p/915861) (Use pythonw.exe if you don't want a command prompt to appear)
+
+### [MacOS + Linux](https://www.advsyscon.com/blog/python-job-scheduling/)
+
+### Android
+
+[Step 1 - Install Termux](https://termux.dev/en/)
+
+[Step 2 - Install Python on Termux](https://wiki.termux.com/wiki/Python)
+
+[Step 3 - Install Git](https://www.reddit.com/r/termux/comments/18hea2i/comment/kd5z8j5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (Make sure when you're running git commands, to replace "git" with "gh")
+
+[Step 4 - Clone this repo into Termux](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) (Or just download the repo ZIP, unzip it, and use it from there)
+
+[Step 5 - Follow the Linux tutorial for scheduling a Python script](https://www.advsyscon.com/blog/python-job-scheduling/)
+
+### iOS . . . You're kinda out of luck . . . I think . . .
