@@ -13,6 +13,8 @@ A Discord [developer application](https://discord.com/developers/applications)
 # Resources
 [Chloe Cinders' Blog Post](https://chloecinders.com/blog/discord-widgets)
 
+[No Text To Speech's YouTube video on Widgets](https://www.youtube.com/watch?v=gYv7D83u7yQ)
+
 [Discord Developer Portal](https://discord.com/developers/applications)
 
 [Last.FM API Account Creation](https://last.fm/api/account/create)
