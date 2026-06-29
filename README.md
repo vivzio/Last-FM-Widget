@@ -1,5 +1,5 @@
 # Last.FM Discord Widget
-This repository will contain information on how to set up a Last.FM Widget on your Discord profile (similar to the "Wuthering Waves" widget).
+This repository will contain information on how to set up a [Last.FM](https://www.last.fm) Widget on your Discord profile (similar to the "Wuthering Waves" widget).
 
 I wanna give a big thanks to [Chloe Cinders](https://chloecinders.com/blog/discord-widgets) for making a blog post about this, and [No Text To Speech](https://youtube.com/@NoTextToSpeech) for making a video tutorial on Chloe's blog post.
 
