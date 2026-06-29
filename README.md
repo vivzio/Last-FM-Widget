@@ -16,5 +16,5 @@ A Discord [developer application](https://discord.com/developers/applications)
 [Last.FM API Account Creation](https://last.fm/api/account/create)
 
 # Tutorial
-![Tutorial Video](Tutorial.mp4)
+[Tutorial Video](https://files.vivzio.live/api/shares/gPKgv1Cq/files/82e93edd-a1ed-4353-9f04-eb931798cfca?download=false)
 ###### *I apologize for the very poor video editing, I currently do not have my main editing software installed :(*
