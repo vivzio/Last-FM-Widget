@@ -3,14 +3,14 @@ This repository will contain information on how to set up a Last.FM Widget on yo
 
 I wanna give a big thanks to [Chloe Cinders](https://chloecinders.com/blog/discord-widgets) for making a blog post about this, and [No Text To Speech](https://youtube.com/@NoTextToSpeech) for making a video tutorial on Chloe's blog post.
 
-# Requirements
+## Requirements
 Python (I developed this with Python 3.14.3)
 
 "dotenv" Python library (pip install dotenv)
 
 A Discord [developer application](https://discord.com/developers/applications)
 
-# Resources
+## Resources
 [Chloe Cinders' Blog Post](https://chloecinders.com/blog/discord-widgets)
 
 [No Text To Speech's YouTube video on Widgets](https://www.youtube.com/watch?v=gYv7D83u7yQ)
